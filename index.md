@@ -1,3 +1,11 @@
+---
+layout: single
+title: My Github Portfolio
+header:
+    overlay_image: computer_lab.jpg 
+    overlay_filter: 0.5
+---
+
 # Hello World
 
 This is my home page! My name is Ben Le and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
