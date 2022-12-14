@@ -1,18 +1,10 @@
----
-layout: single
-title: My Github Portfolio
-header:
-    overlay_image: computer_lab.jpg 
-    overlay_filter: 0.5
----
-
 # Hello World
 
 This is my home page! My name is Ben Le and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/benlenet.
+My GitHub page is [http://github.com/benlenet](http://github.com/benlenet).
 
 ### CPSC 120
 
@@ -27,3 +19,9 @@ My GitHub page is http://github.com/benlenet.
 * Lab 12
 
     Lab 12, part 1, was my favorite because I could create a moving image. While I already knew what pixels, RGB, and gifs were, I didn’t know how to put this information together to create an image. However, with the introduction of the Magicks library, I made several images using a gradient before adding them to a vector, creating the visual of a moving image. I am really proud of being able to create this .gif!
+
+## Images
+
+![The gradient image from Lab 10](images/gradient.png)
+
+![The animated image from Lab 12](images/gradient.gif)
